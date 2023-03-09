@@ -1,0 +1,51 @@
+URl ke bad / ke bad jo bhi hum likhte hain usye routes kehte hain
+
+asa karna hoto 3rd party libaray react-router-dom ko install karna pdta hain
+
+project se bahr niklne ke liye cd..
+
+
+Header(Reusable)
+	nav(Reusable)
+Main(Reusable)
+	Aside(Reusable)
+	section (unique for every page)
+Footer(Reusable)
+
+UI = user interfaces
+
+
+jitne bhi reusable components h unko hum src/components/ui  inme rakhyegye
+
+
+Unividual pages ko src/pages ke andar rakhyegye
+
+folder kabhi bhi capital main ni bnana hain
+
+agar hum class component bnate hain to uske sath render method ka aana compolsary hain jo ki rcc redimate snap me aajata hain
+
+
+reactjs me 2 element ek sath ni le skte hain isliye empty tag ya react.fragment ka use kiya jata hain
+
+
+%PUBLIC_URL% public folder ke address ko represent karta hain
+
+reactjs main bootstrap use karna hoto pehle bootstrap install karna pdega jiski command hain---
+
+npm install react-bootstrap bootstrap
+
+code humesha top to bottom check hota hain pehle libraray uske bad custom code
+
+reactjs main attributes ko props kehte hain
+
+reactjs main tag ko componenet kehte hain
+
+
+Home
+Login
+Register
+
+
+
+	
+
