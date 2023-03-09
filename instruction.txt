@@ -30,6 +30,17 @@ reactjs me 2 element ek sath ni le skte hain isliye empty tag ya react.fragment 
 
 %PUBLIC_URL% public folder ke address ko represent karta hain
 
+
+React application main page refresh nhi hota hain
+
+<a><a/> tag lene se page refresh hota hain iske liye hum link tag le skte hain
+
+Link tag lete he to uske sath href ki jgh to likh degye
+
+
+
+
+
 reactjs main bootstrap use karna hoto pehle bootstrap install karna pdega jiski command hain---
 
 npm install react-bootstrap bootstrap
